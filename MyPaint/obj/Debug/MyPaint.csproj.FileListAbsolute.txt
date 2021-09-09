@@ -1,0 +1,53 @@
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\pdd.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\PDd.16\Downloads\MyPaint\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\sar.16\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\pdd.16\Downloads\MyPaint (1)\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csprojResolveAssemblyReference.cache
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\pdd.16\Downloads\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\Doze\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\Doze\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Doze\Desktop\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
